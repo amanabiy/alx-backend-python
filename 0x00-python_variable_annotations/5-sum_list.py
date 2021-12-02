@@ -6,7 +6,7 @@
 """
 
 
-def sum_list(nums: list[int]) -> float:
+def sum_list(nums: list[float]) -> float:
     """ adds all the numbers in the list and
     returns a float number"""
     return sum(nums)
